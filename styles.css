@@ -1,0 +1,73 @@
+#header{
+
+}
+body{
+  background-image: url("https://www.thesprucecrafts.com/thmb/19QU3f0jAcfQauOEc9op4t6Yq1Q=/3504x2336/filters:fill(auto,1)/three-hanging-red-hearts-on-defocused-light-background--155153445-5a32b51113f1290037a41461.jpg");
+  background-repeat: no-repeat;
+  background-size:100% 100vh;
+}
+.cta{
+  background-color: #ba4270;
+  color: #fbfcfe;
+  width: 178px;
+  height: 48px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transtion: opacity .2w ease-in;
+}
+.cta:hover{
+opacity: .9;
+background-color: #ff1e4d;
+transform: scale(1.1);
+}
+.cardfooter{
+
+}
+.main{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container{
+  width:360px;
+  height: 570px;
+  display:flex;
+  flex-direction: column;
+  border: 1px solid pink;
+  border-radius: 8px;
+  text-align: center;
+  background: linear-gradient(#EFB0C9, #a2d2ff);
+}
+.container1{
+  height: 100px;
+  width: 80px;
+  border: 1px solid lightyellow;
+  border-radius: 8px;
+  display:flex;
+  flex-direction:column;
+  width: 300px;
+  padding:20px;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhoneyandlavenderevents.com%2Fwp-content%2Fuploads%2F2022%2F02%2Ff30f2d55-9adc-4259-b1cc-8f7a58edd8f2_750x422.jpg&f=1&nofb=1&ipt=3992858734d9e194b3e37597410c4965d30a115da5e5ab55c4674ecd7d352084&ipo=images");
+  background-size: fit;
+}
+#Vpict{
+  margin: auto auto;
+  width: 300px;
+  border: 2px solid white;
+  border-radius: 8px;
+}
+.footer {
+  border: 5px solid white;
+  border-radius: 20px;
+   width: 300px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    text-align: center;
+}
+#headText{
+ color: white;
+}
